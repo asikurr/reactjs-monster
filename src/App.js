@@ -30,7 +30,7 @@ class App extends Component {
   
     return (
       <div className="App"> 
-        <h1 className="h1">Monsters Website</h1>
+        <h1 className="h1">Monsters Website App</h1>
         <SearchBox
          placeholder='search monesters' 
          eventHandler={this.handlerChange}
